@@ -40,5 +40,5 @@ Après 10 ans comme conducteur de machine à papier et 15 ans en menuiserie, je 
 ## ⚡ Fun fact
 > "Toujours curieux, toujours en apprentissage."  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-utilisateur&layout=compact&theme=tokyonight)
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ton-utilisateur&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belovitchy&layout=compact&theme=tokyonight)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Belovitchy&show_icons=true&theme=tokyonight)
