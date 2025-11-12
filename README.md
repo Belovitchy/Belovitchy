@@ -6,7 +6,7 @@ Après 10 ans comme conducteur de machine à papier et 15 ans en menuiserie, je 
 ---
 
 ## 🔭 Actuellement  
-- Spécialité : applications web 
+- Spécialité : Développeur d'applications web 
 
 ---
 
@@ -30,8 +30,8 @@ Après 10 ans comme conducteur de machine à papier et 15 ans en menuiserie, je 
 ---
 
 ## 📫 Contact
-- [GitHub](https://github.com/ton-utilisateur)  
-- [LinkedIn](https://www.linkedin.com/in/ton-profil/)  
+- [GitHub](https://github.com/Belovitchy)  
+- [LinkedIn](https://www.linkedin.com/in/eric-lesaffre-40ab03387/)  
 
 ---
 
