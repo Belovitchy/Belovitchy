@@ -1,6 +1,6 @@
 # Salut ! 👋 Je suis Lesaffre Eric
 
-Je vis près de Grenoble et je suis passionné par la tech, la science et le développement.  
+Je vis près de Grenoble et je suis passionné par les sciences et le développement.  
 Après 10 ans comme conducteur de machine à papier et 15 ans en menuiserie, je me reconvertis dans le développement informatique. 🚀
 
 ---
