@@ -19,7 +19,7 @@ Après 10 ans comme conducteur de machine à papier et 15 ans en menuiserie, je 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![.NET](https://img.shields.io/badge/ASP.NET-F7DF1E?style=for-the-badge&logo=three.js&logoColor=black)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
