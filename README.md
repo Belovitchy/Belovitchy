@@ -6,8 +6,8 @@ Après 10 ans comme conducteur de machine à papier et 15 ans en menuiserie, je 
 ---
 
 ## 🔭 Actuellement  
-- Spécialité : Développeur d'applications web 
-
+- Spécialité : Développeur d'applications web
+- Apprentissage ASP.NET 
 ---
 
 ## 🌱 Je continue d’apprendre
@@ -18,6 +18,7 @@ Après 10 ans comme conducteur de machine à papier et 15 ans en menuiserie, je 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ---
