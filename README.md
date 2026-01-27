@@ -7,7 +7,7 @@ Après 10 ans comme conducteur de machine à papier et 15 ans en menuiserie, je 
 
 ## 🔭 Actuellement  
 - Spécialité : Développeur d'applications web
-- Apprentissage ASP.NET 
+- Apprentissage d'ASP.NET via l'application mobilhomesV2  
 ---
 
 ## 🌱 Je continue d’apprendre
@@ -41,5 +41,5 @@ Après 10 ans comme conducteur de machine à papier et 15 ans en menuiserie, je 
 ## ⚡ Fun fact
 > "Toujours curieux, toujours en apprentissage."  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belovitchy&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belovitchy&layout=compact&theme=tokyonight&hide=html,css)
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Belovitchy&show_icons=true&theme=tokyonight)
